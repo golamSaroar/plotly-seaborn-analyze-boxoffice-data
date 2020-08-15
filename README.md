@@ -8,4 +8,4 @@ The motion picture industry is generating more revenue than ever with its expans
 
 One way to answer these questions would be to perform exploratory data analysis (EDA)  and feature engineering. I have used the statistical data visualization libraries, Seaborn and Plotly, to apply graphical techniques used in EDA.
 
-Please have a look at the notebook [here](analyze-box-office-data.ipynb). For a better visual experience, open it on [Colab](https://drive.google.com/file/d/1Vj4iiSeLFcVRzsiDmRvm9VnFkz1Y1zjJ/view?usp=sharing).
+Please have a look at the notebook [here](analyze-boxoffice-data.ipynb). For a better visual experience, open it on [Colab](https://drive.google.com/file/d/1Vj4iiSeLFcVRzsiDmRvm9VnFkz1Y1zjJ/view?usp=sharing).
